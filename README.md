@@ -2,20 +2,28 @@
 
 This project uses SVD (Singular Value Decomposition) to build a movie recommendation system.
 
-I used a sample movie ratings dataset and built a collaborative filtering model. I also evaluated the model using RMSE (Root Mean Squared Error).
+I used a sample movie ratings dataset and built a collaborative filtering model.  
+I also evaluated the model using RMSE (Root Mean Squared Error) to measure prediction accuracy.
+
+---
 
 ## 📌 What I Learned
-- Basics of recommendation systems
-- How to apply SVD for collaborative filtering
-- How to evaluate predictions using RMSE
+- Basics of recommendation systems  
+- How to apply SVD for collaborative filtering  
+- How to evaluate predictions using RMSE  
+
+---
 
 ## 🛠️ Technologies Used
-- Python
-- Pandas, Numpy
-- Scikit-learn
-- Jupyter Notebook
+- Python  
+- Pandas, Numpy  
+- Scikit-learn  
+- Google Colab  
+
+---
 
 ## 📈 Output
-- Predicted movie ratings for users
-- RMSE score printed at the end
+- Predicted movie ratings for users  
+- RMSE score printed at the end  
+
 
